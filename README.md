@@ -7,7 +7,7 @@ This repository contains code for a seminar project by two students in a masterâ
 - Variables, functions, and comments are written in **Bosnian**.
 
 ## Publication
-In the meantime, we published a paper on this topic. You can read it **[here](https://ieeexplore.ieee.org/abstract/document/10694338)**.
+In the meantime, we published a paper on this topic: "Automated Image Processing Approach for Solving Semi-apictorial 2D Puzzles". You can read it **[here](https://ieeexplore.ieee.org/abstract/document/10694338)**.
 
 ## Why it looks like this
 Over the past two years, we havenâ€™t found enough time to:
